@@ -1,1 +1,1 @@
-# whatsapp-clone-with-react-native
+# chatapp-with-react-native
